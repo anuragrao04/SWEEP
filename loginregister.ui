@@ -43,7 +43,7 @@
      </spacer>
     </item>
     <item>
-     <widget class="QPushButton" name="pushButton">
+     <widget class="QPushButton" name="pushButton_login">
       <property name="font">
        <font>
         <pointsize>20</pointsize>
@@ -57,7 +57,7 @@
      </widget>
     </item>
     <item>
-     <widget class="QPushButton" name="pushButton_2">
+     <widget class="QPushButton" name="pushButton_register">
       <property name="font">
        <font>
         <pointsize>20</pointsize>
